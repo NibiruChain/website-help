@@ -12,20 +12,17 @@ Issues tracker across Nibiru Docs, Home site & Web app
 </a>
 </div>
 
+This repository serves as a holder specifically for public inbound issues related to Nibiru's live websites. This may include but is not limited to typos, incorrect data/information, or general bugs.
 
-This repository serves as holder specifaclly for public inbound issues related to Nibiru's live websites. This may ionclude but not limited to typos, incorrect data/information or general bugs.
-
-| Appication                              | Description                    |
-|-----------------------------------------|:-----------------------------:|
-| [Docs](https://nibiru.fi/docs/)         |  Nibiru Chain Documentation   |
-| [Home](https://nibiru.fi/marketing)     |  Nibiru Chain Offical Website |
-| [Web App](https://nibiru.fi/docs/)      |  Nibiru Chain Web App         |
-
-
+| Application                         |          Description          |
+| ----------------------------------- | :---------------------------: |
+| [Docs](https://nibiru.fi/docs/)     |  Nibiru Chain Documentation   |
+| [Home](https://nibiru.fi/marketing) | Nibiru Chain Official Website |
+| [Web App](https://nibiru.fi/docs/)  |     Nibiru Chain Web App      |
 
 ## Reporting an Issue
 
-To report an issue relavant to any of Nibiru live webistes, please create an issue with this repository and include:
+To report an issue relevant to any of Nibiru live websites, please create an issue with this repository and include:
 
 - Name of the website with the issue
 - Screenshot or link to issue
