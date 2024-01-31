@@ -19,7 +19,7 @@ This repository serves as holder specifaclly for public inbound issues related t
 |-----------------------------------------|:-----------------------------:|
 | [Docs](https://nibiru.fi/docs/)         |  Nibiru Chain Documentation   |
 | [Home](https://nibiru.fi/marketing)     |  Nibiru Chain Offical Website |
-| [Web App](https://nibiru.fi/docs/)      |  Nibiru Chain Web App         |
+| [Web App](https://app.nibiru.fi/)      |  Nibiru Chain Web App         |
 
 
 
