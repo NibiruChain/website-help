@@ -14,11 +14,12 @@ Issues tracker across Nibiru Docs, Home site & Web app
 
 This repository serves as a holder specifically for public inbound issues related to Nibiru's live websites. This may include but is not limited to typos, incorrect data/information, or general bugs.
 
+
 | Application                         |          Description          |
 | ----------------------------------- | :---------------------------: |
 | [Docs](https://nibiru.fi/docs/)     |  Nibiru Chain Documentation   |
 | [Home](https://nibiru.fi/marketing) | Nibiru Chain Official Website |
-| [Web App](https://nibiru.fi/docs/)  |     Nibiru Chain Web App      |
+| [Web App](https://app.nibiru.fi)    |     Nibiru Chain Web App      |
 
 ## Reporting an Issue
 
