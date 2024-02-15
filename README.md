@@ -37,3 +37,4 @@ To report an issue relevant to any of Nibiru live websites, please create an iss
      3. What's your Twitter handle?
      4. What's your Nibi address?
      5. Would you be able to provide screenshots of the issue you're encountering?
+- **Please add the correct label to the issue**
