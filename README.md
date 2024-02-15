@@ -15,12 +15,12 @@ Issues tracker across Nibiru Docs, Home site & Web app
 This repository serves as a holder specifically for public inbound issues related to Nibiru's live websites. This may include but is not limited to typos, incorrect data/information, or general bugs.
 
 
-| Application                           |          Description          |
-| ------------------------------------- | :---------------------------: |
-| [Docs](https://nibiru.fi/docs/)       |  Nibiru Chain Documentation   |
-| [Home](https://nibiru.fi)             | Nibiru Chain Official Website |
-| [Airdrops](https://nibiru.fi/airdrop) | Nibiru Chain Official Website |
-| [Web App](https://app.nibiru.fi)      |     Nibiru Chain Web App      |
+| Application                            |          Description          |
+| -------------------------------------- | :---------------------------: |
+| [Docs](https://nibiru.fi/docs/)        |  Nibiru Chain Documentation   |
+| [Home](https://nibiru.fi)              | Nibiru Chain Official Website |
+| [Airdrops](https://nibiru.fi/airdrops) | Nibiru Chain Airdrop Campaign |
+| [Web App](https://app.nibiru.fi)       |     Nibiru Chain Web App      |
 
 ## Reporting an Issue
 
