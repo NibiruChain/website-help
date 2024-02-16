@@ -30,11 +30,5 @@ To report an issue relevant to any of Nibiru live websites, please create an iss
 - Screenshot or link to issue
 - If issue is regarding the web app,
   - Please include information regarding on how to reproduce the problem faced and include video or screenshot
-- If issue is regarding airdrops,
-  - Please include the following information:
-     1. Which browser and device are you using?
-     2. What wallet are you using?
-     3. What's your Twitter handle?
-     4. What's your Nibi address?
-     5. Would you be able to provide screenshots of the issue you're encountering?
+- If issue is regarding airdrops, please select the Airdrops report template
 - **Please add the correct label to the issue**
