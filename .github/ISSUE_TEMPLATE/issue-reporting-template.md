@@ -1,7 +1,7 @@
 ---
 name: Airdrop Reporting Template
 about: Describe relating to Nibiru Airdrops by providing the information below
-title: "[Aidrops]"
+title: "[Aidrops]: "
 labels: Airdrops
 assignees: ''
 
